@@ -1,0 +1,651 @@
+[
+  {
+    "activity": [
+      "Fungi",
+      "Eukaryote",
+      "Eukaryote",
+      "Eukaryote",
+      "Eukaryote",
+      "Eukaryote",
+      "Eukaryote",
+      "Eukaryote",
+      "Eukaryote",
+      "Eukaryote",
+      "Eukaryote"
+    ],
+    "target": [
+      "CHANNEL FORMATION",
+      "MEMBRANE PERMEABILITY",
+      "MEMBRANE",
+      "MEMBRANE ACTIVITY",
+      "MEMBRANE LIPOSOME PERMEABILIZATION",
+      "MEMBRANE CHANNEL FORMATION",
+      "MEMBRANE DAMAGE",
+      "MEMBRANE INTEGRITY",
+      "MEMBRANE MODIFICATION",
+      "MEMBRANE DAMAGE"
+    ],
+    "number": 53,
+    "label": "Membrane permeability"
+  },
+  {
+    "activity": [
+      "Immunomodulator",
+      "Immunomodulator",
+      "Immunomodulator",
+      "Immunomodulator",
+      "Eukaryote",
+      "Immunomodulator",
+      "Immunomodulator",
+      "Immunomodulator"
+    ],
+    "target": [
+      "PHOSPHOLIPASE",
+      "PHOSPHOLIPASE 2",
+      "PHOSPHOLIPASE A",
+      "PHOSPHOLIPASE A2",
+      "PHOSPHOLIPASE A3",
+      "PHOSPHOLIPASE B",
+      "PHOSPHOLIPASE C",
+      "PHOSPHOLIPASE D"
+    ],
+    "number": 47,
+    "label": "Phospholipase"
+  },
+  {
+    "activity": ["Fungi", "Eukaryote"],
+    "target": ["GERMINATION", "SPORE GERMINATION"],
+    "number": 73,
+    "label": "Germination"
+  },
+  {
+    "target": ["5 HYDROXYAVERANTIN DEHYDROGENASE"],
+    "number": 49,
+    "label": "5-Hydroxiavertin Dehydrogenase"
+  },
+  {
+    "activity": ["Eukaryote"],
+    "target": ["20S PROTEASOME"],
+    "number": 38,
+    "label": "Proteasome"
+  },
+  {
+    "target": ["ACETYL COENZYME A CARBOXYLASE"],
+    "number": 43,
+    "label": "Acetyl Coenzyme A carboxylase"
+  },
+  {
+    "activity": ["Eukaryote", "Cancer", "Cancer"],
+    "target": ["HSP90", "HEAT SHOCK PROTEIN", "HEAT SHOCK PROTEIN 90"],
+    "number": 39,
+    "label": "Hsp-90"
+  },
+  {
+    "target": ["FRUITING BODY FORMATION", "FRUITING BODY FORMATION"],
+    "number": 54,
+    "label": "Fruiting body formation"
+  },
+  {
+    "target": [
+      "BETA LACTAM",
+      "HORMOTHAMNIN A",
+      "LAXAPHYCIN A",
+      "LOBOCYCLAMINDE A",
+      "LOBOCYCLAMINDE B",
+      "PYRROLNITRIN",
+      "VERRCULOGEN",
+      "CASPOFUNGIN"
+    ],
+    "number": 59,
+    "label": "ANTIBIOTIC syngerists"
+  },
+  {
+    "target": [
+      "ACULEACIN",
+      "ANTIFUNGAL",
+      "AZOLE",
+      "CHLOROPEROXIDASE",
+      "CLOTRIMAZOLE",
+      "FUNGICIDE",
+      "HELIANTHATE ANION TRANSFER",
+      "IMIDAZOLE",
+      "MICONAZOLE",
+      "POLYENES"
+    ],
+    "number": 60,
+    "label": "Antifungal ANTIBIOTICS"
+  },
+  {
+    "target": [
+      "HORMONE",
+      "MATING ALPHA FACTOR",
+      "MATING PHEROMONE RELEASE",
+      "SEX HORMONE"
+    ],
+    "number": 61,
+    "label": "Hormone"
+  },
+  {
+    "target": ["THYMIDYLATE SYNTHETASE"],
+    "number": 44,
+    "label": "Thymidylate synthetase"
+  },
+  {
+    "activity": ["Fungi", "Fungi", "Eukaryote"],
+    "target": ["GROWTH", "GROWTH RESTORATION", "OOCYTE MATURATION"],
+    "number": 63,
+    "label": "Growth"
+  },
+  {
+    "target": ["GERM TUBE ELONGATION"],
+    "number": 64,
+    "label": "Germ tube"
+  },
+  {
+    "target": ["CONIDIATION", "CONIDIUM GERMINATION", "CONIDIUM GERMINATION"],
+    "number": 65,
+    "label": "Conidiation"
+  },
+  {
+    "target": [
+      "HYPHAE BRANCHING",
+      "HYPHAE DEFORMATION",
+      "HYPHAE DIFFERENTIATION",
+      "HYPHAE FORMATION",
+      "HYPHAE GROWTH",
+      "HYPHAE SWELLING",
+      "MYCELIAL DEFORMATION",
+      "AERIAL MYCELIUM",
+      "AERIAL MYCELIUM FORMATION",
+      "DIMORPHISM"
+    ],
+    "number": 66,
+    "label": "Aerial mycelium"
+  },
+  {
+    "target": ["CUTINASE"],
+    "number": 48,
+    "label": "Cutinase"
+  },
+  {
+    "target": ["QUORUM SENSING"],
+    "number": 24,
+    "label": "Quorum sensing"
+  },
+  {
+    "target": ["CELL AGGREGATION FACTOR"],
+    "number": 25,
+    "label": "Cell aggregation factor"
+  },
+  {
+    "target": [
+      "1 3 BETA GLUCAN SYNTHASE",
+      "1 3 BETA GLUCAN SYNTHASE",
+      "1 3 BETA GLUCAN SYNTHETASE"
+    ],
+    "number": 12,
+    "label": "β-1,3 glucan synthase"
+  },
+  {
+    "target": ["TREHALASE"],
+    "number": 22,
+    "label": "Trehalase"
+  },
+  {
+    "activity": ["Eukaryote"],
+    "target": ["VIRULENCE FACTOR"],
+    "number": 23,
+    "label": "Virulence factor"
+  },
+  {
+    "target": [
+      "GLYCOSYLPHOSPHATIDYLINOSITOL ANCHORING",
+      "GLYCOSYLPHOSPHATIDYLINOSITOL BIOSYNTHESIS"
+    ],
+    "number": 41,
+    "label": "Glycosylphosphatidylinositol"
+  },
+  {
+    "target": ["APPRESSORIUM FORMATION"],
+    "number": 57,
+    "label": "Appressorium formation"
+  },
+  {
+    "target": ["MANNOPROTEIN SYNTHETASE"],
+    "number": 40,
+    "label": "Mannoprotein synthetase"
+  },
+  {
+    "target": [
+      "METABOLITE PRODUCTION",
+      "METABOLITE PRODUCTION",
+      "SECONDARY METABOLITES"
+    ],
+    "number": 37,
+    "label": "Metabolite production"
+  },
+  {
+    "activity": [
+      "Fungi",
+      "Cancer",
+      "Cancer",
+      "Cancer",
+      "Cancer",
+      "Cancer",
+      "Cancer",
+      "Cancer",
+      "Cancer",
+      "Cancer",
+      "Cancer",
+      "Eukaryote",
+      "Eukaryote"
+    ],
+    "target": [
+      "MICROTUBULE",
+      "MICROTUBULE",
+      "MICROTUBULE POLYMERIZATION",
+      "MICROTUBULE DEPOLYMERIZATION",
+      "MICROTUBULE PRONUCLEAR FUSION",
+      "MICROTUBULE STABILIZATION",
+      "SPINDLE FORMATION",
+      "TUBULIN",
+      "TUBULIN DEPOLYMERIZATION",
+      "TUBULIN POLYMERIZATION",
+      "MICROTUBULE STABILIZATION",
+      "MICROTUBULE POLYMERIZATION",
+      "MICROTUBULE POLYMERIZATION"
+    ],
+    "number": 1,
+    "label": "Microtubules"
+  },
+  {
+    "activity": ["Eukaryote", "Euakryote", "Eukaryote"],
+    "target": [
+      "DNA NUCLEASE",
+      "DNA STRAND INSCISSION",
+      "DNA STRAND INSCISSION"
+    ],
+    "number": 3,
+    "label": "DNA repair"
+  },
+  {
+    "activity": [
+      "Eukaryote",
+      "Eukaryote",
+      "Eukaryote",
+      "Eukaryote",
+      "Eukaryote",
+      "Eukaryote",
+      "Eukaryote",
+      "Eukaryote"
+    ],
+    "target": [
+      "DNA BREAK",
+      "DNA CLEAVAGE",
+      "DNA CROSSLINKING",
+      "DNA DAMAGE",
+      "DNA DEGRADATION",
+      "DNA BINDING",
+      "DNA INTERCALATION",
+      "MUTATION"
+    ],
+    "number": 4,
+    "label": "DNA damage"
+  },
+  {
+    "activity": [
+      "Eukaryote",
+      "Eukaryote",
+      "Eukaryote",
+      "Eukaryote",
+      "Eukaryote",
+      "Eukaryote",
+      "Eukaryote",
+      "Eukaryote",
+      "Eukaryote",
+      "Eukaryote",
+      "Eukaryote",
+      "Eukaryote"
+    ],
+    "target": [
+      "DNA GYRASE",
+      "DNA GYRASE B",
+      "DNA HELICASE",
+      "DNA POLYMERASE",
+      "DNA POLYMERASE ALPHA",
+      "DNA POLYMERASE BETA",
+      "DNA SUPERCOILING",
+      "DNA SYNTHESIS",
+      "DNA TOPOISOMERASE I",
+      "DNA TOPOISOMERASE II",
+      "DNA TRANSCRIPTION",
+      "DNA WINDING"
+    ],
+    "number": 5,
+    "label": "DNA synthesis"
+  },
+  {
+    "activity": ["Eukaryote", "Eukaryote", "Eukaryote"],
+    "target": ["RNA", "RNA POLYMERASE", "RNA SYNTHESIS"],
+    "number": 2,
+    "label": "RNA synthesis"
+  },
+  {
+    "activity": [
+      "Fungi",
+      "Fungi",
+      "Eukaryote",
+      "Eukaryote",
+      "Eukaryote",
+      "Eukaryote",
+      "Eukaryote",
+      "Eukaryote",
+      "Eukaryote"
+    ],
+    "target": [
+      "MITOCHONDRIAL RESPIRATION",
+      "MITOCHONDRIA",
+      "MITOCHONDRIA",
+      "MITOCHONDRIA DAMAGE",
+      "MITOCHONDRIAL COMPLEX",
+      "MITOCHONDRIAL COMPLEX II",
+      "MITOCHONDRIAL OXYGEN UPTAKE",
+      "MITOCHONDRIAL RESPIRATION",
+      "MITOCHONDRIA UNCOUPLING"
+    ],
+    "number": 34,
+    "label": "Mitochondria"
+  },
+  {
+    "activity": ["Eukaryote"],
+    "target": ["MITOCHONDRIAL ATPASE"],
+    "number": 26,
+    "label": "Mitochondrial ATPase"
+  },
+  {
+    "activity": ["Eukaryote", "Eukaryote", "Eukaryote"],
+    "target": [
+      "MITOCHONDRIAL ELECTRON TRANSPORT",
+      "ELECTRON TRANSPORT",
+      "ELECTRON TRANSPORT CHAIN"
+    ],
+    "number": 27,
+    "label": "Mitochondrial electron transport"
+  },
+  {
+    "activity": ["Eukaryote"],
+    "target": ["OXIDATIVE PHOSPHORYLATION"],
+    "number": 28,
+    "label": "Oxidative phosphorylation"
+  },
+  {
+    "activity": ["Eukaryote", "Eukaryote", "Eukaryote"],
+    "target": [
+      "NADH DEHYDROGENASE",
+      "NADH UBIQUINONE OXIDOREDUCTASE",
+      "NADPH QUINONE REDUCTASE"
+    ],
+    "number": 7,
+    "label": "NADH dehydrogenase"
+  },
+  {
+    "activity": ["Eukaryote"],
+    "target": ["CYTOCHROME BC1"],
+    "number": 6,
+    "label": "Cytochrome bc1"
+  },
+  {
+    "target": ["GROWTH FACTOR"],
+    "number": 9,
+    "label": "Growth factor"
+  },
+  {
+    "target": ["PIGMENT FORMATION"],
+    "number": 74,
+    "label": "Pigment formation"
+  },
+  {
+    "number": 46,
+    "label": "Elongation factor"
+  },
+  {
+    "activity": ["Fungi", "Eukaryote", "Eukaryote", "Eukaryote", "Eukaryote"],
+    "target": [
+      "LANOSTEROL SYNTHASE",
+      "LANOSTEROL 14 ALPHA DEMETHYLASE",
+      "CYTOCHROME P450",
+      "CYTOCHROME P450 1A",
+      "CYTOCHROME P450 3A4"
+    ],
+    "number": 36,
+    "label": "Lanosterol 14α-demethylase (Cytochrome P-450)"
+  },
+  {
+    "target": [
+      "ASEXUAL ARTHROSPORE FORMATION",
+      "ASEXUAL ARTHROSPORE FORMATION",
+      "SIGNALLING SPORULATION",
+      "SPORULATION",
+      "ZOOSPORE"
+    ],
+    "number": 62,
+    "label": "Spore formation"
+  },
+  {
+    "target": ["BIOFILM FORMATION", "BIOFILM FORMATION"],
+    "number": 72,
+    "label": "BIOFILM FORMATION"
+  },
+  {
+    "target": [
+      "MORPHOGENESIS",
+      "MORPHOLOGICAL CHANGE",
+      "MORPHOLOGICAL TRANSITION",
+      "SEXUAL DEVELOPMENT",
+      "MORPHOLOGICAL DIFFERENTIATION"
+    ],
+    "number": 71,
+    "label": "Morphogenesis"
+  },
+  {
+    "target": ["ISOCITRATE LYASE"],
+    "number": 35,
+    "label": "Isocitrate lyase"
+  },
+  {
+    "target": ["CELL WALL BIOSYNTHESIS"],
+    "number": 55,
+    "label": "Cell wall biosynthesis"
+  },
+  {
+    "target": ["BULGE FORMING"],
+    "number": 69,
+    "label": "Bulge formation"
+  },
+  {
+    "target": ["BROWN BLOTCH DISEASE"],
+    "number": 68,
+    "label": "Brown blotch disease"
+  },
+  {
+    "target": ["TYROSINASE"],
+    "number": 51,
+    "label": "Tyrosinase"
+  },
+  {
+    "target": ["PROTOPLAST FORMATION", "SPHEROPLAST REGENERATION"],
+    "number": 70,
+    "label": "Protoplast formation"
+  },
+  {
+    "target": ["FATTY ACID SYNTHASE"],
+    "number": 52,
+    "label": "Fatty acid synthase"
+  },
+  {
+    "number": 11,
+    "label": " β-1,6 glucan synthesis"
+  },
+  {
+    "target": [
+      "1 3 BETA GLUCAN SYNTHASE",
+      "1 3 BETA GLUCAN SYNTHASE",
+      "1 3 BETA GLUCAN SYNTHESIS",
+      "GLUCAN SYNTHESIS"
+    ],
+    "number": 10,
+    "label": "β-1,3 glucan synthesis"
+  },
+  {
+    "target": [
+      "CHITIN SYNTHASE",
+      "CHITIN SYNTHASE II",
+      "CHITIN SYNTHASE",
+      "CHITIN SYNTHASE II",
+      "CHITIN SYNTHESIS"
+    ],
+    "number": 13,
+    "label": "Chitin synthase"
+  },
+  {
+    "target": ["CHITINASE", "ENDOCHITINASE"],
+    "number": 14,
+    "label": "Chitinase"
+  },
+  {
+    "number": 15,
+    "label": "Phosphatidylserine (PS)"
+  },
+  {
+    "target": ["ERGOSTEROL BIOSYNTHESIS"],
+    "number": 20,
+    "label": "Ergosterol"
+  },
+  {
+    "activity": ["Fungi", "Eukaryote", "Eukaryote", "Eukaryote"],
+    "target": [
+      "VACUOLAR TYPE ATPASE",
+      "VACUOLAR TYPE ATPASE",
+      "VACUOLAR TYPE PROTON PUMP"
+    ],
+    "number": 17,
+    "label": "Vaculor proton-translocating ATPase (V-ATPase)"
+  },
+  {
+    "activity": ["Eukaryote", "Eukaryote"],
+    "target": [
+      "SPHINGOLIPID",
+      "SPHINGOLIPID BIOSYNTHESIS",
+      "SPHINGOMYELIN",
+      "SPHINGOSINE KINASE",
+      "SPHINGOSINE N ACYLTRANSFERASE",
+      "SPHINGANINE N ACYLTRANSFERASE"
+    ],
+    "number": 16,
+    "label": "Sphingolipid biosynthesis"
+  },
+  {
+    "target": [
+      "DRUG EFFLUX PUMP",
+      "MULTI DRUG RESISTANT EFFLUX PUMP PDR5",
+      "EFFLUX PUMP"
+    ],
+    "number": 19,
+    "label": "Efflux pump"
+  },
+  {
+    "target": ["METALLOPROTEINASE"],
+    "number": 18,
+    "label": "Metalloproteinase"
+  },
+  {
+    "activity": ["Eukaryote", "Eukaryote", "Eukaryote"],
+    "target": [
+      "SQUALENE SYNTHASE",
+      "SQUALENE SYNTHESIS",
+      "SQUALENE MONOOXYGENASE",
+      "SQUALENE SYNTHASE",
+      "SQUALENE SYNTHETASE"
+    ],
+    "number": 30,
+    "label": "Squalene synthase"
+  },
+  {
+    "activity": ["Eukaryote"],
+    "target": ["CALMODULIN"],
+    "number": 33,
+    "label": "Calmodulin"
+  },
+  {
+    "activity": ["Fungi", "Fungi", "Eukaryote"],
+    "target": [
+      "PROTEIN ELONGATION",
+      "PROTEIN BIOSYNTHESIS",
+      "PROTEIN ELONGATION"
+    ],
+    "number": 32,
+    "label": "Protein biosynthesis"
+  },
+  {
+    "target": ["AFLATOXIN BIOSYNTHESIS"],
+    "number": 50,
+    "label": "Aflotaxin biosynthesis"
+  },
+  {
+    "target": ["HEAT SHOCK SENSITIVITY"],
+    "number": 56,
+    "label": "Heat shock sensitivity"
+  },
+  {
+    "target": ["ADENOSINE TRIPHOSPHATE BINDING CASSETTE TRANSPORTER"],
+    "number": 31,
+    "label": "ATP BINDING CASSETTE TRANSPORTERs"
+  },
+  {
+    "activity": ["Cancer", "Cancer", "Cancer", "Cancer"],
+    "target": [
+      "ACTIN DEPOLYMERIZATION",
+      "ACTIN POLYMERIZATION",
+      "MICROFILAMENT",
+      "MICROFILAMENT NETWORK DISRUPTION",
+      "ACTIN ASSEMBLY",
+      "ACTIN POLYMERIZATION"
+    ],
+    "number": 21,
+    "label": "Microfilament"
+  },
+  {
+    "target": ["ASPARTIC PROTEASE"],
+    "number": 45,
+    "label": "ASPARTIC PROTEASE"
+  },
+  {
+    "target": ["MAJOR FACILITATOR SUPERFAMILY TRANSPORTER"],
+    "number": 8,
+    "label": "Major facilitator superfamily transporter"
+  },
+  {
+    "activity": ["Fungi", "Eukaryote"],
+    "target": ["MOTILITY", "CHEMOTAXIS"],
+    "number": 58,
+    "label": "Fungal motility"
+  },
+  {
+    "activity": ["Eukaryote", "Eukaryote", "Eukaryote"],
+    "target": ["MITOSIS", "MITOSIC ARREST", "CELL PROLIFERATION"],
+    "number": 80,
+    "label": "Mitosis"
+  },
+  {
+    "activity": ["Eukaryote"],
+    "target": ["SUCCINATE DEHYDROGENASE"],
+    "number": 42,
+    "label": "Succinate dehydrogenase"
+  },
+  {
+    "activity": ["Eukaryote"],
+    "target": ["XYLANASE"],
+    "number": 29,
+    "label": "Xylanase"
+  }
+]

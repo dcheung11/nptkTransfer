@@ -1,0 +1,546 @@
+[
+  {
+    "activity": ["Plant"],
+    "plant_relationship": [],
+    "target": ["ABSCISSION"],
+    "number": 1,
+    "label": "Abscision"
+  },
+  {
+    "activity": ["Plant", "Plant"],
+    "plant_relationship": [],
+    "target": ["ATPASE", "PLASMODERMA ATPASE"],
+    "number": 2,
+    "label": "ATPase"
+  },
+  {
+    "activity": [
+      "Plant",
+      "Plant",
+      "Plant",
+      "Plant",
+      "Plant",
+      "Plant",
+      "Plant",
+      "Plant"
+    ],
+    "plant_relationship": [],
+    "number": 3,
+    "label": "Cytokinin activity"
+  },
+  {
+    "activity": ["Plant", "Plant", "Plant", "Plant", "Plant"],
+    "plant_relationship": [],
+    "target": [
+      "BROMELAIN",
+      "FICAIN",
+      "FICAIN",
+      "PAPAIN",
+      "SECONDARY METABOLITES",
+      "ANTIOXIDANT"
+    ],
+    "number": 4,
+    "label": "Metabolites"
+  },
+  {
+    "activity": ["Plant", "Plant"],
+    "plant_relationship": [],
+    "target": [
+      "CELL DIVISION",
+      "CALLUS GROWTH",
+      "MICROTOBULE ASSEMBLY",
+      "ROOT CELL MITOSIS"
+    ],
+    "number": 5,
+    "label": "Cell growth and division"
+  },
+  {
+    "activity": ["Plant", "Plant"],
+    "plant_relationship": [],
+    "target": [
+      "CELLULOSE BIOSYNTHESIS",
+      "CELLULOSE SYNTHASE",
+      "CELLULOSE SYNTHESIS"
+    ],
+    "number": 6,
+    "label": "Cellulose biosynthesis"
+  },
+  {
+    "activity": ["Plant", "Plant"],
+    "plant_relationship": [],
+    "target": ["CELLULOSE DEPOLYMERIZATION", "CELLULOSE DIGESTION"],
+    "number": 7,
+    "label": "Cellulose degradation"
+  },
+  {
+    "activity": ["Plant", "Plant", "Plant", "Plant", "Plant"],
+    "plant_relationship": [],
+    "target": [
+      "CHLOROPHYLL STIMULATION",
+      "CHLOROPLAST PHOSPHORYLATION",
+      "PHOTOSYNTHESIS",
+      "PHOTOSYNTHETIC ELECTRON TRANSPORT",
+      "PHOTOSYSTEM II"
+    ],
+    "number": 8,
+    "label": "Photosynthesis"
+  },
+  {
+    "activity": ["Plant", "Plant", "Plant", "Plant"],
+    "plant_relationship": [],
+    "target": [
+      "BLACK STAIN ROOT DISEASE",
+      "ROOT ROT DISEASE",
+      "FUIT ROT DISEASE",
+      "ROOT HAIR DEFORMATION"
+    ],
+    "number": 9,
+    "label": "Root diseases"
+  },
+  {
+    "activity": ["Plant", "Plant", "Plant", "Bacteria"],
+    "plant_relationship": ["", "", "", "PHYTOPATHOGEN"],
+    "target": [
+      "CANKER",
+      "CROWN GALL DISEASE",
+      "SCAB DISEASE",
+      "CROWN GALL DISEASE"
+    ],
+    "number": 10,
+    "label": "Bacterial diseases"
+  },
+  {
+    "activity": [
+      "Plant",
+      "Plant",
+      "Plant",
+      "Plant",
+      "Plant",
+      "Plant",
+      "Plant",
+      "Plant",
+      "Plant",
+      "Plant",
+      "Plant",
+      "Plant",
+      "Plant",
+      "Plant"
+    ],
+    "plant_relationship": [],
+    "target": [
+      "BLACK ROT DISEASE",
+      "BROWN SPOT DISEASE",
+      "CUCUMBER GRAY MOLD DISEASE",
+      "DEAD SPOT DISEASE",
+      "DUTCH ELM DISEASE",
+      "GLUME BLOTCH DISEASE",
+      "GREY BLIGHT DISEASE",
+      "NECTRIA BLIGHT DISEASE",
+      "NET SPOT BLOCH DISEASE",
+      "POWDERY MILDEW DISEASE",
+      "RICE BLAST",
+      "VICTORIA BLIGHT DISEASE",
+      "WHITE BLIGHT",
+      "STEM ROT DISEASE"
+    ],
+    "number": 11,
+    "label": "Fungal diseases"
+  },
+  {
+    "activity": ["Plant", "Plant"],
+    "plant_relationship": [],
+    "target": ["CHLOROSIS", "LEAF BLIGHT DISEASE"],
+    "number": 12,
+    "label": "Chlorosis"
+  },
+  {
+    "activity": ["Plant"],
+    "plant_relationship": [],
+    "target": ["DECAY"],
+    "number": 13,
+    "label": "Decay"
+  },
+  {
+    "activity": ["Plant"],
+    "plant_relationship": [],
+    "target": ["FLOWERING"],
+    "number": 14,
+    "label": "Flowering"
+  },
+  {
+    "activity": ["Plant"],
+    "plant_relationship": [],
+    "target": ["ETHYLENE PRODUCTION"],
+    "number": 15,
+    "label": "Ethylene production"
+  },
+  {
+    "activity": ["Plant", "Plant", "Plant", "Plant", "Plant"],
+    "plant_relationship": [],
+    "target": [
+      "SEED GERMINATION",
+      "GERMINATION",
+      "SEED GROWTH",
+      "COLEOPTILE DEVELOPMENT",
+      "COLEOPTILE GROWTH"
+    ],
+    "number": 16,
+    "label": "Germination"
+  },
+  {
+    "activity": ["Plant", "Plant", "Plant"],
+    "plant_relationship": [],
+    "target": [
+      "GROWTH",
+      "SEED GROWTH",
+      "SHOOT ELONGATION",
+      "SHOOT REGENERATION"
+    ],
+    "number": 17,
+    "label": "Plant growth"
+  },
+  {
+    "activity": ["Plant"],
+    "plant_relationship": [],
+    "target": ["MORPHOGENESIS"],
+    "number": 18,
+    "label": "Morphognesis"
+  },
+  {
+    "activity": ["Plant"],
+    "plant_relationship": [],
+    "target": ["NECROSIS"],
+    "number": 19,
+    "label": "Necrosis"
+  },
+  {
+    "activity": ["Plant"],
+    "plant_relationship": [],
+    "target": ["ALPHA AMYLASE"],
+    "number": 20,
+    "label": "α amylase"
+  },
+  {
+    "activity": ["Plant", "Plant", "Plant"],
+    "plant_relationship": [],
+    "target": ["TYROSINASE", "TYROSINE HYDROXYLASE", "TYROSINE PHOSPHATASE"],
+    "number": 21,
+    "label": "Tyrosinase"
+  },
+  {
+    "activity": ["Plant"],
+    "plant_relationship": [],
+    "target": ["POLYGALACTURONASE"],
+    "number": 22,
+    "label": "Polygalacturonase"
+  },
+  {
+    "activity": ["Plant"],
+    "plant_relationship": [],
+    "target": ["POLYPHENOL OXIDASE"],
+    "number": 23,
+    "label": "Polyphenol oxidase"
+  },
+  {
+    "activity": ["Plant"],
+    "plant_relationship": [],
+    "target": ["ALDOLASE"],
+    "number": 24,
+    "label": "Aldolase"
+  },
+  {
+    "activity": ["Eukartyote", "Eukaryote"],
+    "target": ["ACETOLACTATE SYNTHASE", "ACETOLACTATE SYNTHASE"],
+    "number": 25,
+    "label": "ACETOLACTATE SYNTHASE"
+  },
+  {
+    "activity": ["Eukaryote", "Eukaryote", "Eukaryote", "Eukaryote"],
+    "target": [
+      "ACETYL COENZYME A CARBOXYLASE",
+      "ACETYL COENZYME A",
+      "ACETYL COENZYME A ACETYLTRANSFERASE",
+      "ACETYL COENZYME A SYNTHETASE"
+    ],
+    "number": 26,
+    "label": "Acetyl CoA"
+  },
+  {
+    "activity": ["Eukaryote"],
+    "target": ["CALMODULIN"],
+    "number": 27,
+    "label": "Calmodulin"
+  },
+  {
+    "activity": ["Eukaryote"],
+    "target": ["GLUTATHIONE BIOSYNTHESIS"],
+    "number": 28,
+    "label": "Glutathionine biosynthesis"
+  },
+  {
+    "activity": ["Eukaryote"],
+    "target": ["REACTIVE OXYGEN SPECIES PRODUCTION"],
+    "number": 29,
+    "label": "Reactive oxygen species production"
+  },
+  {
+    "activity": ["Eukaryote", "Eukaryote", "Eukaryote"],
+    "target": [
+      "ELECTRON TRANSFER",
+      "ELECTRON TRANSPORT",
+      "ELECTRON TRANSPORT CHAIN"
+    ],
+    "number": 30,
+    "label": "Electron transport"
+  },
+  {
+    "activity": ["Eukaryote"],
+    "target": ["CYTOCHROME P450"],
+    "number": 31,
+    "label": "Cytochrome P450"
+  },
+  {
+    "activity": ["Plant"],
+    "plant_relationship": [],
+    "target": ["LEAF SPOT DISEASE"],
+    "number": 32,
+    "label": "LEAF SPOT DISEASE"
+  },
+  {
+    "activity": ["Plant", "Plant", "Plant", "Plant"],
+    "plant_relationship": [],
+    "target": [
+      "POLLEN DEVELOPMENT",
+      "POLLEN GERMINATION",
+      "POLLEN GROWTH",
+      "POLLEN TUBE GROWTH"
+    ],
+    "number": 33,
+    "label": "Pollen development"
+  },
+  {
+    "activity": ["Plant", "Plant", "Plant"],
+    "plant_relationship": [],
+    "target": [
+      "Plant DEFENSE",
+      "DEFENSE RESPONSE",
+      "SUSCEPTIBILITY",
+      "APOPTOSIS"
+    ],
+    "number": 59,
+    "label": "Plant defense"
+  },
+  {
+    "activity": ["Plant", "Plant"],
+    "plant_relationship": [],
+    "target": ["RADICLE ELONGATION", "RADICLE GROWTH", "COLEOPTILE GROWTH"],
+    "number": 34,
+    "label": "Radical development"
+  },
+  {
+    "activity": ["Plant", "Plant", "Plant"],
+    "plant_relationship": [],
+    "target": ["ROOT ELONGATION", "ROOT GERMINTION", "ROOT GROWTH"],
+    "number": 35,
+    "label": "Root growth"
+  },
+  {
+    "activity": ["Plant"],
+    "plant_relationship": [],
+    "target": ["LATERAL ROOT"],
+    "number": 36,
+    "label": "Lateral root development"
+  },
+  {
+    "activity": ["Plant"],
+    "plant_relationship": [],
+    "target": ["STARCH BIOSYNTHESIS"],
+    "number": 37,
+    "label": "Starch biosynthesis"
+  },
+  {
+    "activity": ["Plant"],
+    "plant_relationship": [],
+    "target": ["TUBER FORMATION"],
+    "number": 38,
+    "label": "Tuber formation"
+  },
+  {
+    "activity": ["Plant"],
+    "plant_relationship": [],
+    "target": ["VASCULAR BROWNING"],
+    "number": 39,
+    "label": "Vascular browning"
+  },
+  {
+    "activity": ["Plant"],
+    "plant_relationship": [],
+    "target": ["WATER TRANSPORT"],
+    "number": 40,
+    "label": "Water transport"
+  },
+  {
+    "activity": ["Plant", "Plant", "Plant"],
+    "plant_relationship": [],
+    "target": ["WEED GROWTH", "POST EMERGENCE ACTIVITY", "FIREWEED DISEASE"],
+    "number": 42,
+    "label": "Weed growth"
+  },
+  {
+    "activity": ["Plant", "Plant"],
+    "plant_relationship": [],
+    "target": ["WILT", "WILTING FACTOR"],
+    "number": 43,
+    "label": "Wilt"
+  },
+  {
+    "activity": ["Plant"],
+    "plant_relationship": ["HERBICIDE", "CYTOCHALASIN B"],
+    "number": 41,
+    "label": "Herbicide"
+  },
+  {
+    "proxyFigure": "Fungi",
+    "number": 46,
+    "label": "Fungal pathogen targets"
+  },
+  {
+    "proxyFigure": "Bacteria",
+    "number": 47,
+    "label": "Bacterial pathogen targets"
+  },
+  {
+    "activity": ["Virus"],
+    "plant_relationship": ["PHYTOPATHOGEN"],
+    "target": ["REVERSE TRANSCRIPTASE"],
+    "number": 44,
+    "label": "Viral replication"
+  },
+  {
+    "activity": ["Virus"],
+    "plant_relationship": ["PHYTOPATHOGEN"],
+    "number": 45,
+    "label": "Viral phytopathogens"
+  },
+  {
+    "activity": ["Plant"],
+    "plant_relationship": [],
+    "target": ["PROTOPLAST FORMATION"],
+    "number": 64,
+    "label": "Protoplast formation"
+  },
+  {
+    "proxyFigure": "Insect",
+    "number": 48,
+    "label": "Insect pathogen targets"
+  },
+  {
+    "activity": ["Molluscs"],
+    "plant_relationship": [],
+    "number": 49,
+    "label": "Mollusc"
+  },
+  {
+    "activity": [
+      "Parasite",
+      "Parasite",
+      "Parasite",
+      "Parasite",
+      "Parasite",
+      "Parasite",
+      "Parasite"
+    ],
+    "plant_relationship": [],
+    "target": [
+      "ORNITHINE DECARBOXYLASE",
+      "ENOYL ACYL CARRIER PROTEIN REDUCTASE",
+      "PROTEIN KINASE",
+      "3H SCH23390 BINDING TO DOPAMINE RECEPTOR D1",
+      "S ADENOSYL METHIONINE",
+      "GERMINATION",
+      "ZOOSPORE GERMINATION"
+    ],
+    "number": 50,
+    "label": "Nematode parasites"
+  },
+  {
+    "plant_relationship": [],
+    "target": ["AMMONIA ACCUMULATION"],
+    "number": 51,
+    "label": "Ammonia accumulation"
+  },
+  {
+    "plant_relationship": [],
+    "target": ["STOMATAL CLOSURE"],
+    "number": 52,
+    "label": "Stomatal closure"
+  },
+  {
+    "plant_relationship": [],
+    "target": ["AUXIN LIKE ACTIVITY", "AUXIN SIGNALLING"],
+    "number": 53,
+    "label": "Auxin activity"
+  },
+  {
+    "plant_relationship": [],
+    "target": ["BRASSINOLIDE", "BRASSINOSTEROID"],
+    "number": 54,
+    "label": "Brassinosteroid activity"
+  },
+  {
+    "plant-relationship": [],
+    "target": ["GIBBRELLIN"],
+    "number": 55,
+    "label": "Gibberellin activity"
+  },
+  {
+    "plant_relationship": [],
+    "target": ["PHYTOALEXIN", "PHYTOHORMONE"],
+    "number": 56,
+    "label": "Phytohormone activity"
+  },
+  {
+    "plant_relationship": [],
+    "target": ["CELL WALL BIOSYNTHESIS"],
+    "number": 57,
+    "label": "Cell wall biosynthesis"
+  },
+  {
+    "plant_relationship": [],
+    "target": ["C GLYCOSIDIC ELICITOR"],
+    "number": 58,
+    "label": "C glycosidic elicitor"
+  },
+  {
+    "plant_relationship": [],
+    "target": [
+      "MEMBRANE INTEGRITY",
+      "MEMBRANE PERMEABILITY",
+      "MEMBRANE DAMAGE"
+    ],
+    "number": 60,
+    "label": "Membrane integrity"
+  },
+  {
+    "plant_relationship": [],
+    "target": ["PHENYLALANINE AMMONIA LYASE 1"],
+    "number": 61,
+    "label": "Phenylalanine ammonia lyase 1"
+  },
+  {
+    "plant_relationship": [],
+    "target": [
+      "PHOSPHATASE 1",
+      "PHOSPHATASE 2A",
+      "PROTEIN TYROSINE PHOSPHATASE"
+    ],
+    "number": 62,
+    "label": "Phosphatase activity"
+  },
+  {
+    "plant_relationship": [],
+    "target": ["XANTHOTOXIN DETOXIFICATION"],
+    "number": 63,
+    "label": "Xanthotoxin detoxification"
+  }
+]

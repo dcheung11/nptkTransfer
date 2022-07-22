@@ -1,0 +1,640 @@
+[
+  {
+    "target": ["SEPTATION"],
+    "number": 85,
+    "label": "Septation"
+  },
+  {
+    "target": ["BACTERIOCHLOROPHYLL SYNTHESIS"],
+    "number": 72,
+    "label": "Bacteriochlorophyll synthesis"
+  },
+  {
+    "target": ["NITRIC OXIDE PRODUCTION"],
+    "number": 73,
+    "label": "Nitric oxide production"
+  },
+  {
+    "target": ["OXIDATIVE STRESS"],
+    "number": 101,
+    "label": "Oxidative stress"
+  },
+  {
+    "target": ["PHEROMONE ACTIVITY", "SEX PHEROMONE"],
+    "number": 90,
+    "label": "Hormone"
+  },
+  {
+    "target": ["SIGNALLING SPORULATION", "SPORULATION"],
+    "number": 89,
+    "label": "Sporulation"
+  },
+  {
+    "target": [
+      "ISOLEUCINE TRNA SYNTHETASE",
+      "LEU-TRNA SYNTHETASE",
+      "TRYPTOPHAN TRNA SYNTHETASE",
+      "PROLINE-TRNA SYNTHETASE",
+      "TYROSINE TRNA SYNTHETASE",
+      "TYROSYL-TRNA SYNTHETASE",
+      "THREONINE TRNA SYNTHETASE",
+      "SERINE TRNA SYNTHETASE",
+      "ASPARTATE TRNA SYNTHETASE",
+      "PHENYLALANINE TRNA SYNTHETASE"
+    ],
+    "number": 71,
+    "label": "tRNA synthetase"
+  },
+  {
+    "target": ["ALA-D-ALA CHELATOR"],
+    "number": 74,
+    "label": "D-Ala-D-Ala chelator"
+  },
+  {
+    "target": [
+      "L HISTIDINOL PHOSPHATE AMINOTRANSFERASE",
+      "ACETYLORNITHINE AMINOTRANSFERASE",
+      "N ACETYLORNITHINE TRANSAMINASE",
+      "BIOTIN AMINOTRANSFERASE"
+    ],
+    "number": 70,
+    "label": "Aminotransferase"
+  },
+  {
+    "target": ["SECA", "SECA ATPASE", "SecA–YEG complex"],
+    "number": 69,
+    "label": "SecA–YEG complex"
+  },
+  {
+    "target": [
+      "AERIAL MYCELIUM",
+      "AERIAL MYCELIUM FORMATION",
+      "AERIAL MYCELIUM FORMATION",
+      "HYPHAE FORMATION",
+      "MYCELIUM FORMATION"
+    ],
+    "number": 95,
+    "label": "Mycelium formation"
+  },
+  {
+    "target": [
+      "ANTIBIOTICS",
+      "ANTIBIOTIC PRODUCTION",
+      "ANTIBIOTICS",
+      "CARBAPENUM BIOSYNTHESIS",
+      "ELLORAMYCIN EXPRESSION",
+      "MICROCYSTIN BIOSYNTHESIS",
+      "STREPTOMYCIN",
+      "STREPTOMYCIN PRODUCTION"
+    ],
+    "number": 81,
+    "label": "ANTIBIOTIC production"
+  },
+  {
+    "target": ["BULGE FORMING"],
+    "number": 82,
+    "label": "Bulge formation"
+  },
+  {
+    "target": ["COLONIZATION"],
+    "number": 83,
+    "label": "Colonization"
+  },
+  {
+    "target": [
+      "MEMBRANE ENERGIZATION",
+      "MEMBRANE PERMEABILITY",
+      "MEMBRANE DAMAGE",
+      "CHANNEL FORMATION"
+    ],
+    "number": 84,
+    "label": "Membrane permeability"
+  },
+  {
+    "target": ["MOBILITY"],
+    "number": 79,
+    "label": "Mobility"
+  },
+  {
+    "target": ["NODULATION", "NODULATION GENE EXPRESSION"],
+    "number": 86,
+    "label": "Nodulation"
+  },
+  {
+    "target": ["SULFATE RESPIRATION"],
+    "number": 87,
+    "label": "Sulfate respiration"
+  },
+  {
+    "target": ["ALGAE BACTERIAL SYMBIOSIS"],
+    "number": 88,
+    "label": "Algae symbiosis"
+  },
+  {
+    "target": [
+      "BETA LACTAM",
+      "CHLORAMPHENICOL",
+      "CYCLOSERINE",
+      "DIHYDROSTREPTOMYCIN",
+      "LANKACIDIN",
+      "LEVORIN",
+      "MEROPENEM",
+      "MYCINAMYCIN",
+      "NARGENICIN",
+      "RIFAMYCIN",
+      "SPIRAMYCIN",
+      "VANCOMYCIN",
+      "VIRGINIAMYCIN",
+      "VIRGINIAMYCIN",
+      "CYCLOSERINE",
+      "AMPICILLIN",
+      "OXACILLIN",
+      "IMIPENEM"
+    ],
+    "number": 91,
+    "label": "ANTIBIOTICS synergists"
+  },
+  {
+    "target": ["QUORUM SENSING"],
+    "number": 68,
+    "label": "Quorum sensing"
+  },
+  {
+    "target": ["RNA POLYMERASE"],
+    "number": 9,
+    "label": "RNA polymerase"
+  },
+  {
+    "target": ["RHO TRANSCRIPTION TERMINATION FACTOR"],
+    "number": 10,
+    "label": "Transcription termination factor Rho"
+  },
+  {
+    "target": [
+      "DNA POLYMERASE",
+      "RNA DEPENDENT DNA POLYMERASE ACTIVITY",
+      "TAQ DNA POLYMERASE",
+      "DNA POLYMERASE SUBUNIT DNAE",
+      "DNA POLYMERASE SUBUNIT DNAN"
+    ],
+    "number": 7,
+    "label": "DNA polymerase"
+  },
+  {
+    "target": ["DNA GYRASE", "DNA GYRASE B"],
+    "number": 8,
+    "label": "DNA gyrase"
+  },
+  {
+    "target": ["CLPP PROTEASE"],
+    "number": 67,
+    "label": "ClpP protease"
+  },
+  {
+    "target": ["4-AMINO-4-DEOXYCHORISMATE", "P AMINOBENZOATE BIOSYNTHESIS"],
+    "number": 66,
+    "label": "4 AMINO 4 DEOXYCHORISMATE SYNTHASE"
+  },
+  {
+    "target": ["RIBOSOME INHIBITOR"],
+    "number": 65,
+    "label": "Ribosome"
+  },
+  {
+    "target": ["ELONGATION FACTOR", "ELONGATION FACTOR TU"],
+    "number": 64,
+    "label": "Elongation factor Tu"
+  },
+  {
+    "target": ["BIOFILM", "BIOFILM FORMATION"],
+    "number": 94,
+    "label": "Biofilm formation"
+  },
+  {
+    "target": [
+      "MELANIN BIOSYNTHESIS",
+      "PIGMENT FORMATION",
+      "CAROTENOID BIOSYNTHESIS"
+    ],
+    "number": 80,
+    "label": "Pigment formation"
+  },
+  {
+    "target": ["RIBOFLAVIN SYNTHASE"],
+    "number": 63,
+    "label": "Riboflavin synthase"
+  },
+  {
+    "target": ["SIALIDASE"],
+    "number": 62,
+    "label": "Sialidase"
+  },
+  {
+    "target": ["SPIRALIN PROCESSING"],
+    "number": 61,
+    "label": "Spiralin"
+  },
+  {
+    "target": ["UNDECAPRENYL PYROPHOSPHATE SYNTHASE", "UNDERCAPRENYL BINDER"],
+    "number": 60,
+    "label": "Undecaprenyl Pyrophosphate"
+  },
+  {
+    "target": ["GERMINATION"],
+    "number": 96,
+    "label": "Germination"
+  },
+  {
+    "target": ["ANTIMETABOLITE"],
+    "number": 59,
+    "label": "Metabolite"
+  },
+  {
+    "target": ["DEXTRAN SUCRASE"],
+    "number": 58,
+    "label": "Dextran sucrase"
+  },
+  {
+    "target": ["DRUG TRANSPORT", "EFFLUX PUMP"],
+    "number": 57,
+    "label": "Efflux pump"
+  },
+  {
+    "target": ["HISTIDINE KINASE"],
+    "number": 56,
+    "label": "Histidine kinase"
+  },
+  {
+    "target": ["ATP BINDING CASSETTE TRANSPORTER"],
+    "number": 55,
+    "label": "ATP BINDING CASSETTE TRANSPORTER"
+  },
+  {
+    "target": ["F0F1 ATPASE"],
+    "number": 54,
+    "label": "ATPase"
+  },
+  {
+    "target": ["PHOSPHATIDYLETHANOLAMINE"],
+    "number": 53,
+    "label": "Phosphatidylethanolamine"
+  },
+  {
+    "target": ["TYPE 3 SECRETION SYSTEM"],
+    "number": 1,
+    "label": "Type 3 secretion system"
+  },
+  {
+    "target": ["SERRATIA PROTEASE", "SUBTILISIN"],
+    "number": 52,
+    "label": "Protease"
+  },
+  {
+    "target": ["TRANSGLYCOSIDASE"],
+    "number": 51,
+    "label": "Transglycosidase"
+  },
+  {
+    "target": ["GLUTAMINE BIOSYNTHESIS"],
+    "number": 50,
+    "label": "Glutamine biosynthesis"
+  },
+  {
+    "target": ["KCSA CHANNEL", "SODIUM CHANNEL", "ION BINDING"],
+    "number": 92,
+    "label": "Ion channels"
+  },
+  {
+    "target": ["REDUCTASE"],
+    "number": 49,
+    "label": "Reductase"
+  },
+  {
+    "target": ["MALATE SYNTHASE"],
+    "number": 48,
+    "label": "Malate synthase"
+  },
+  {
+    "target": ["MRA Y", "MULTI DRUG RESISTANCE"],
+    "number": 47,
+    "label": "MRA-Y"
+  },
+  {
+    "target": [
+      "HOMOSERINE O SUCCINYLTRANSFERASE",
+      "HOMOSERINE O ACYLTRANSFERASE"
+    ],
+    "number": 46,
+    "label": "Homoserine-O-transferase"
+  },
+  {
+    "target": ["PYRUVATE DEHYDROGENASE"],
+    "number": 45,
+    "label": "Pyruvate dehydrogenase"
+  },
+  {
+    "target": ["GLUTAMINE SYNTHETASE"],
+    "number": 44,
+    "label": "Glutamine synthase"
+  },
+  {
+    "target": ["PROTEIN BIOSYNTHESIS", "PROTEIN ELONGATION"],
+    "number": 43,
+    "label": "Protein biosynthesis"
+  },
+  {
+    "target": ["SIDEROPHORE"],
+    "number": 93,
+    "label": "Siderophore"
+  },
+  {
+    "target": ["TIPA PROMOTER"],
+    "number": 42,
+    "label": "TipA promoter"
+  },
+  {
+    "target": ["CALCIUM SIGNALLING", "INTERCELLULAR SIGNALLING COMPOUND"],
+    "number": 99,
+    "label": "Cell signaling"
+  },
+  {
+    "target": ["DNA PRIMASE", "DNA SYNTHESIS", "DNA BINDING"],
+    "number": 4,
+    "label": "DNA synthesis"
+  },
+  {
+    "target": ["RNA SYNTHESIS"],
+    "number": 5,
+    "label": "RNA synthesis"
+  },
+  {
+    "target": ["PEPTIDOGLYCAN BIOSYNTHESIS", "PEPTIDOGLYCAN SYNTHETASE"],
+    "number": 2,
+    "label": "PEPTIDOGLYCAN BIOSYNTHESIS"
+  },
+  {
+    "target": ["MURAA", "UDP N ACETYLGLUCOSAMINE 3 ENOLPYRUVYLTRANSFERASE"],
+    "number": 41,
+    "label": "MURA-A"
+  },
+  {
+    "target": ["DNA TOPOISOMERASE I", "DNA TOPOISOMERASE II", "TOPOISOMERASE"],
+    "number": 6,
+    "label": "DNA topoisomerase"
+  },
+  {
+    "target": ["COLLAGENASE", "COLLAGENASE BIOSYNTHESIS"],
+    "number": 40,
+    "label": "Collagenase"
+  },
+  {
+    "target": ["LIPID II BINDER"],
+    "number": 39,
+    "label": "Lipid II binder"
+  },
+  {
+    "target": [
+      "PHOSPHO N ACETYLMURAMOYL PENTAPEPTIDE TRANSFERASE",
+      "TRANSLOCASE"
+    ],
+    "number": 38,
+    "label": "MRA-Y"
+  },
+  {
+    "target": ["EXTRACELLULAR MATRIX RECEPTOR"],
+    "number": 37,
+    "label": "Extracellular matrix receptor"
+  },
+  {
+    "target": ["5 HYDROXY 4 OXONORVALINE BIOSYNTHESIS", "ENDOTOXIN RECEPTOR"],
+    "number": 36,
+    "label": "Endotoxin receptor"
+  },
+  {
+    "target": [
+      "CARBOXYPEPTIDASE",
+      "CARBOXYPEPTIDASE A",
+      "CARBOXYPEPTIDASE B",
+      "DD CARBOXYPEPTIDASE"
+    ],
+    "number": 35,
+    "label": "Carboxypeptidase"
+  },
+  {
+    "target": ["CHITINASE"],
+    "number": 34,
+    "label": "Chitinase"
+  },
+  {
+    "target": ["COENZYME A BIOSYNTHESIS"],
+    "number": 33,
+    "label": "Coenzyme A biosynthesis"
+  },
+  {
+    "target": [
+      "ELECTRON TRANSPORT",
+      "ELECTRON TRANSPORT CHAIN",
+      "CYTOCHROME BD",
+      "CYTOCHROME BC1 COMPLEX",
+      "CYTOCHROME C OXIDASE",
+      "NADH QUINONE REDUCTASE"
+    ],
+    "number": 32,
+    "label": "Electron transport chain"
+  },
+  {
+    "target": [
+      "DXP REDUCTOISOMERASE",
+      "DEOXYXYLULOSE PHOSPHATE REDUCTOISOMERASE"
+    ],
+    "number": 31,
+    "label": "DXP oxidoreductase"
+  },
+  {
+    "target": ["WALR", "WALK/WALR TWO COMPONENT SYSTEM"],
+    "number": 30,
+    "label": "WalK/WalR"
+  },
+  {
+    "target": ["TYPE II SIGNAL PEPTIDASE", "SIGNAL PEPTIDASE"],
+    "number": 29,
+    "label": "Signal peptidase"
+  },
+  {
+    "target": ["MENAQUINONE BINDER"],
+    "number": 28,
+    "label": "Menaquinone binder"
+  },
+  {
+    "target": ["NADH OXIDASE", "NADH OXIDATION"],
+    "number": 27,
+    "label": "NADH oxidase"
+  },
+  {
+    "target": [
+      "CELL WALL TRANSGLYCOSYLASE",
+      "CELL WALL TRANSGLYCOSYLATION",
+      "PEPTIDOGLYCAN TRANSGLYCOSIDATION",
+      "PEPTIDOGLYCAN TRANSGLYCOSYLASE",
+      "TRANSGLYCOSYLATION"
+    ],
+    "number": 3,
+    "label": "Peptidoglycan transglycosylase"
+  },
+  {
+    "target": [
+      "BETA LACTAMASE",
+      "CEPHALOSPORINASE",
+      "METALLO BETA LACTAMASE",
+      "P99 CEPHALOSPORINASE",
+      "PENICILLINASE",
+      "SERINE BETA LACTAMASE",
+      "BETA LACTAMASE",
+      "PENICILLIN BINDING PROTEIN"
+    ],
+    "number": 26,
+    "label": "Beta-lactamase"
+  },
+  {
+    "target": ["CELL GROWTH", "GROWTH", "GROWTH FACTOR"],
+    "number": 100,
+    "label": "Growth"
+  },
+  {
+    "target": ["BACTERIAL ADHESION", "CELL AGGREGATION FACTOR"],
+    "number": 97,
+    "label": "Bacterial adhesion"
+  },
+  {
+    "target": ["GLUCOSAMINE 6 PHOSPHATE SYNTHASE"],
+    "number": 25,
+    "label": "Glucosamine-6-phosphate synthase"
+  },
+  {
+    "target": [
+      "ACETYL COENZYME A CARBOXYLASE",
+      "ACETYL COENZYME A CARBOXYLASE",
+      "ACETYL COENZYME A CARBOXYLASE",
+      "ACETYL COENZYME A"
+    ],
+    "number": 24,
+    "label": "ACETYL COENZYME A CARBOXYLASE"
+  },
+  {
+    "target": ["PYRUVATE CARBOXYLASE"],
+    "number": 23,
+    "label": "Pyruvate carboxylase"
+  },
+  {
+    "target": ["CARDIOLIPIN BINDER"],
+    "number": 22,
+    "label": "Cardiolipin binder"
+  },
+  {
+    "target": ["SODIUM DEPENDENT NADH QUINONE REDUCTASE"],
+    "number": 21,
+    "label": "Na-dependent NADH-quinone reductase"
+  },
+  {
+    "target": ["ACYL CARRIER PROTEIN SYNTHASE"],
+    "number": 20,
+    "label": "Acyl carrier protein synthase"
+  },
+  {
+    "target": [
+      "A FACTOR",
+      "VIRULENCE FACTOR",
+      "VIRULENCE GENE EXPRESSION",
+      "SALMONELLA PATHOGENICITY ISLAND 1 EFFECTOR SECRETION",
+      "SIPC SECRETION",
+      "BOTULINUM",
+      "COLICIN SYNTHESIS"
+    ],
+    "number": 98,
+    "label": "Virulence factors"
+  },
+  {
+    "target": [
+      "LIPOPOLYSACCHARIDE",
+      "LIPOPOLYSACCHARIDE SYNTHESIS",
+      "LIPOPOLYSACCHARIDE BINDING"
+    ],
+    "number": 19,
+    "label": " Lipopolysaccharide"
+  },
+  {
+    "target": ["LIPASE", "PHOSPHOLIPASE C"],
+    "number": 18,
+    "label": "Lipase"
+  },
+  {
+    "target": ["INHA ENZYME", "ENOYL ACYL CARRIER PROTEIN REDUCTASE"],
+    "number": 17,
+    "label": "INHA"
+  },
+  {
+    "target": ["PROLYL ENDOPEPTIDASE", "PROLYL OLIGOPEPTIDASE"],
+    "number": 16,
+    "label": "Prolyl peptidase"
+  },
+  {
+    "target": [
+      "FATTY ACID BIOSYNTHESIS",
+      "LIPID SYNTHESIS",
+      "FATTY ACID SYNTHASE",
+      "FABBH",
+      "FABG",
+      "PEPTIDE DEFORMYLASE",
+      "FABI",
+      "FABF",
+      "FABF II",
+      "FABB"
+    ],
+    "number": 11,
+    "label": "Fatty acid biosynthesis"
+  },
+  {
+    "target": ["MALATE DEHYDROGENASE"],
+    "number": 12,
+    "label": "Malate dehydrogenase"
+  },
+  {
+    "target": ["AMINOGLYCOSIDE 2 O ADENYLYLTRANSFERASE"],
+    "number": 13,
+    "label": "Aminoglyocside adenyltransferase"
+  },
+  {
+    "target": ["AMINOGLYCOSIDE 3 PHOSPHOTRANSFERASE"],
+    "number": 14,
+    "label": "Aminoglyocside phopshotransferase"
+  },
+  {
+    "target": ["SODIUM POTASSIUM ATPASE"],
+    "number": 15,
+    "label": "Sodium ATPase"
+  },
+  {
+    "activity": ["Cancer", "Cancer"],
+    "target": ["GELATINASE A", "GELATINASE B"],
+    "number": 75,
+    "label": "Gelatinase"
+  },
+  {
+    "activity": ["Cancer"],
+    "target": ["COLLAGENASE"],
+    "number": 76,
+    "label": "Collagenase"
+  },
+  {
+    "activity": ["Eukaryote"],
+    "target": ["XYLANASE"],
+    "number": 77,
+    "label": "Xylanase"
+  },
+  {
+    "activity": ["Prokaryote"],
+    "target": ["CHEMOTAXIS"],
+    "number": 78,
+    "label": "Chemotaxis"
+  }
+]

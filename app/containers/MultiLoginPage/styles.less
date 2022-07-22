@@ -1,0 +1,91 @@
+@img-path : '../../../public/images';
+
+/* Main Styles */
+
+.title {
+  text-align: center;
+  color: antiquewhite;
+  -webkit-text-stroke-width: 1px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  min-height: 100%;
+  min-width: 100%;
+}
+
+.dynamicStyling {
+  background-size: cover;
+}
+
+.logo {
+  opacity: 0.9;
+}
+
+/* Button Styles */
+
+.googleLogin {
+  background: #4C8BF5;
+  color: white;
+}
+
+.publicLogin {
+  background: #023f51;
+}
+
+.privateLogin {
+  background: #4C8BF5
+}
+
+/* WorkBench Styles*/
+.workBenchBg {
+  background-image: url("@{img-path}/magarvey-bg.jpg");
+  .dynamicStyling;
+}
+
+:global(.workBenchTabs){
+  color: #4C8BF5;
+  color: rgba(0, 0, 0, 0.3);
+  :global(.ant-tabs-tab.ant-tabs-tab-active .ant-tabs-tab-btn) {
+    color: rgba(0, 0, 0, 0.5);
+  };
+}
+
+/*Inviand Styles*/
+.inviand {
+  background-image: url("@{img-path}/inviand-bg.jpg");
+  color: white;
+  .dynamicStyling;
+}
+
+:global(.inviandTabs){
+  color: rgba(0, 0, 0, 0.3);
+  :global(.ant-tabs-tab.ant-tabs-tab-active .ant-tabs-tab-btn) {
+    color:white;
+    color: rgba(0, 0, 0, 0.5);
+  };
+}
+
+/*Public Styles*/
+.public {
+  background-image: url("@{img-path}/crow-bg.png");
+  background-position: center;
+  color: green;
+  .dynamicStyling;
+}
+
+:global(.publicTabs){
+  color:white;
+  color: rgba(999, 999, 999, 0.1);
+  :global(.ant-tabs-tab.ant-tabs-tab-active .ant-tabs-tab-btn) {
+    color:white;
+    color: rgba(999, 999, 999, 0.7);
+  };
+}
+
+/* Form Styles */
+
+:global(.formItem){
+  color: white;
+}

@@ -1,0 +1,288 @@
+[
+  {
+    "target": ["FEEDING ON FUNGI", "FEEDING"],
+    "number": 1,
+    "label": "Feeding behaviour"
+  },
+  {
+    "target": ["CONVULSION"],
+    "number": 2,
+    "label": "Convulsion"
+  },
+  {
+    "target": ["PARALYSIS", "NEUROTOXICITY"],
+    "number": 3,
+    "label": "Paralysis"
+  },
+  {
+    "activity": ["Insect", "Insect", "Eukaryote", "Eukaryote"],
+    "target": [
+      "LARVAE",
+      "LARVAL GROWTH",
+      "LARVAL NERVOUS SYSTEM",
+      "LARVAL METAMORPHOSIS"
+    ],
+    "number": 4,
+    "label": "Larval development"
+  },
+  {
+    "target": ["CHITINASE"],
+    "number": 5,
+    "label": "Chitinase"
+  },
+  {
+    "target": ["MOULTING"],
+    "number": 6,
+    "label": "Insect Moulting"
+  },
+  {
+    "activity": ["Insect", "Eukaryote"],
+    "target": ["PHEROMONE", "SEX PHEROMONE"],
+    "number": 7,
+    "label": "Phermone activity"
+  },
+  {
+    "target": ["MELANIN BIOSYNTHESIS"],
+    "number": 8,
+    "label": "Melanin biosynthesis"
+  },
+  {
+    "target": ["CELL MORPHOGENESIS"],
+    "number": 9,
+    "label": "Cell morphogenesis"
+  },
+  {
+    "activity": ["Eukaryote"],
+    "target": ["OXIATIVE PHOSPHORYLATION"],
+    "number": 10,
+    "label": "Oxidative phosphorylation"
+  },
+  {
+    "activity": [
+      "Immunomodulator",
+      "Immunomodulator",
+      "Immunomodulator",
+      "Immunomodulator",
+      "Eukaryote",
+      "Immunomodulator",
+      "Immunomodulator",
+      "Immunomodulator"
+    ],
+    "target": [
+      "PHOSPHOLIPASE",
+      "PHOSPHOLIPASE 2",
+      "PHOSPHOLIPASE A",
+      "PHOSPHOLIPASE A2",
+      "PHOSPHOLIPASE A3",
+      "PHOSPHOLIPASE B",
+      "PHOSPHOLIPASE C",
+      "PHOSPHOLIPASE D"
+    ],
+    "number": 11,
+    "label": "Phospholipase"
+  },
+  {
+    "activity": ["Cancer", "Cancer", "Cancer", "Cancer", "Cancer"],
+    "target": [
+      "AMINOPEPTIDASE",
+      "AMINOPEPTIDASE A",
+      "AMINOPEPTIDASE B",
+      "AMINOPEPTIDASE M",
+      "AMINOPEPTIDASE N"
+    ],
+    "number": 12,
+    "label": "Aminopeptidase"
+  },
+  {
+    "activity": ["Eukaryote", "Eukaryote"],
+    "target": ["PROLYL ENDOPEPTIDASE", "PROLYL ENDOPEPTIDASE"],
+    "number": 13,
+    "label": "Endopeptidase"
+  },
+  {
+    "activity": ["Cancer", "Insect"],
+    "target": ["ACETYLCHOLINESTERASE", "ACETYLCHOLINE ESTERASE"],
+    "number": 16,
+    "label": "Acetylcholine esterase"
+  },
+  {
+    "activity": ["Nervous system"],
+    "target": ["ACETYLCHOLINE"],
+    "number": 17,
+    "label": "Acetylcholine"
+  },
+  {
+    "activity": ["Nervous system", "Nervous system"],
+    "target": [
+      "MUSCARINIC ACETYLCHOLINE RECEPTOR",
+      "MUSCARINIC ACETYLCHOLINE RECEPTOR M3 BINDING"
+    ],
+    "number": 18,
+    "label": "Muscarinic acetylcholine receptor"
+  },
+  {
+    "activity": ["Nervous system"],
+    "target": ["NICOTINIC ACETYLCHOLINE RECEPTOR"],
+    "number": 19,
+    "label": "Nicotonic acetylcholine receptor"
+  },
+  {
+    "activity": ["Nervous system"],
+    "target": ["GAMMA AMINOBUTYRIC ACID RECEPTOR"],
+    "number": 20,
+    "label": "GABA Receptor"
+  },
+  {
+    "activity": [
+      "Nervous system",
+      "Eukaryote",
+      "Eukaryote",
+      "Eukaryote",
+      "Eukaryote"
+    ],
+    "target": [
+      "N TYPE CALCIUM CHANNEL",
+      "CALCIUM CHANNEL",
+      "CALCIUM INFLUX",
+      "CALCIUM INFLUX",
+      "CALCIUM CHANNEL"
+    ],
+    "number": 21,
+    "label": "Calcium channel"
+  },
+  {
+    "activity": ["Nervous system", "Nervous system"],
+    "target": ["SODIUM CHANNEL", "SODIUM ION INFLUX"],
+    "number": 22,
+    "label": "Sodium channel"
+  },
+  {
+    "activity": ["Insect", "Eukaryote"],
+    "target": [
+      "GLUTAMINE GATED CHLORIDE CHANNEL",
+      "CHLORIDE CHANNEL ACTIVATION"
+    ],
+    "number": 23,
+    "label": "Chloride channel"
+  },
+  {
+    "activity": ["Nervous system"],
+    "target": ["PRIMARY SODIUM PUMP INHIBITOR"],
+    "number": 14,
+    "label": "Sodium pump"
+  },
+  {
+    "activity": ["Eukaryote", "Eukaryote", "Eukaryote", "Eukaryote"],
+    "target": [
+      "LANOSTEROL 14 ALPHA DEMETHYLASE",
+      "CYTOCHROME P450",
+      "CYTOCHROME P450 1A",
+      "CYTOCHROME P450 3A4"
+    ],
+    "number": 25,
+    "label": "Cytochrome-P450"
+  },
+  {
+    "target": ["INSECTICIDE", "ALLEOCHEMICALS"],
+    "number": 32,
+    "label": "Insecticidal synergists"
+  },
+  {
+    "activity": [
+      "Eukaryote",
+      "Eukaryote",
+      "Eukaryote",
+      "Eukaryote",
+      "Eukaryote",
+      "Eukaryote",
+      "Eukaryote"
+    ],
+    "target": [
+      "MITOCHONDRIA",
+      "MITOCHONDRIA DAMAGE",
+      "MITOCHONDRIAL COMPLEX",
+      "MITOCHONDRIAL COMPLEX II",
+      "MITOCHONDRIAL OXYGEN UPTAKE",
+      "MITOCHONDRIAL RESPIRATION",
+      "MITOCHONDRIA UNCOUPLING"
+    ],
+    "number": 26,
+    "label": "Mitochondria"
+  },
+  {
+    "activity": ["Eukaryote", "Eukaryote", "Eukaryote"],
+    "target": [
+      "NADH DEHYDROGENASE",
+      "NADH UBIQUINONE OXIDOREDUCTASE",
+      "NADPH QUINONE REDUCTASE"
+    ],
+    "number": 27,
+    "label": "NADH dehydrogenase"
+  },
+  {
+    "activity": ["Eukaryote"],
+    "target": ["CHYMOTRYPSIN"],
+    "number": 28,
+    "label": "Chymotrypsin"
+  },
+  {
+    "activity": ["Eukaryote", "Eukaryote", "Eukaryote", "Eukaryote"],
+    "target": [
+      "CYSTEINE AMINOPEPTIDASE",
+      "LEUCINE AMINOPEPTIDASE",
+      "LEUCYL AMINOPEPTIDASE",
+      "CYSTINYL AMINOPEPTIDASE"
+    ],
+    "number": 29,
+    "label": "Aminopeptidase"
+  },
+  {
+    "activity": [
+      "Eukaryote",
+      "Eukaryote",
+      "Eukaryote",
+      "Eukaryote",
+      "Eukaryote",
+      "Eukaryote"
+    ],
+    "target": [
+      "CYSTEINE PROTEASE",
+      "PROTEASE",
+      "3C PROTEASE",
+      "PROTEASE I",
+      "PROTEINASE",
+      "SERINE PROTEASE"
+    ],
+    "number": 30,
+    "label": "Protease"
+  },
+  {
+    "activity": ["Eukaryote", "Eukaryote", "Eukaryote"],
+    "target": ["ENDOPEPTIDASE", "PEPTIDASE", "PROLYL ENDOPEPTIDASE"],
+    "number": 31,
+    "label": "Peptidase"
+  },
+  {
+    "activity": ["Eukaryote"],
+    "target": ["ION CHANNEL"],
+    "number": 15,
+    "label": "Ion channel"
+  },
+  {
+    "activity": ["Eukaryote"],
+    "target": ["SODIUM POTASSIUM ATPASE"],
+    "number": 33,
+
+    "label": "Sodium-potassium ATPase"
+  },
+  {
+    "activity": ["Eukaryote", "Eukaryote", "Euakryote"],
+    "target": [
+      "POTASSIUM ADENOSINE TRIPHOSPHATASE CHANNEL",
+      "POTASSIUM ION CHANNEL",
+      "VOLTAGE GATED POTASSIUM CHANNEL"
+    ],
+    "number": 24,
+    "label": "Potassium ion channel"
+  }
+]
